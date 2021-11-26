@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/liammcluckie"><img src="https://api.daily.dev/devcards/0375322ee6914e758f37277d79b14c2b.png?r=i5s" width="400" alt="Liam McLuckie's Dev Card"/></a>
+<a href="https://app.daily.dev/liammcluckie"><img src="https://github.com/liammcluckie/liammcluckie/blob/master/devcard.svg"" width="400" alt="Liam McLuckie's Dev Card"/></a>
 
 <!--
 **liammcluckie/liammcluckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
